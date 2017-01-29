@@ -1,4 +1,4 @@
 # forushande
-Subtitles for the movie Forushande.
+Subtitles for the movie Forushande (currently a work in progress).
 
-Download: ![here](https://raw.githubusercontent.com/foroushande/forushande/master/Forushande%201080p.srt)
+Download the latest version: ![here](https://raw.githubusercontent.com/foroushande/forushande/master/Forushande%201080p.srt)
