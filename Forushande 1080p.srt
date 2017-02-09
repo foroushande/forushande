@@ -1,4 +1,4 @@
-﻿1
+1
 00:01:00,800 --> 00:01:04,340
 In The Name Of God
 
@@ -416,11 +416,11 @@ Arthur Miller
 Hmm... nope.
 
 102
-00:07:37,460 --> 00:07:38,674
+00:07:37,460 --> 00:07:38,670
 Very good.
 
 103
-00:07:38,674 --> 00:07:40,740
+00:07:38,670 --> 00:07:40,740
 Excuse me guys
 
 104
@@ -2684,11 +2684,11 @@ Willy. Darling. You're the most handsome man in the world to me.
 
 640
 00:45:02,100 --> 00:45:07,300
-You always say this to me Linda, but it doesn't help me at all. 
+You always say this to me Linda, but it doesn't help me at all.
 
 641
 00:45:07,300 --> 00:45:09,660
-I'll never be able to make you happy and do you know why? 
+I'll never be able to make you happy and do you know why?
 
 642
 00:45:09,660 --> 00:45:13,900
@@ -3359,11 +3359,11 @@ Hey, you okay? Is Rana here?
 No, wasn't she with you?
 
 808
-00:57:40,300 --> 00:57:41,260
+00:57:40,180 --> 00:57:41,300
 She's coming on her own
 
 809
-00:57:41,260 --> 00:57:43,100
+00:57:41,300 --> 00:57:43,100
 Any news on him?
 
 810
@@ -3454,3 +3454,972 @@ Why?
 00:58:46,620 --> 00:58:48,620
 I want to speak with her
 
+832
+00:58:48,620 --> 00:58:50,620
+Ask her why she did this
+
+833
+00:58:50,620 --> 00:58:51,540
+Did what?
+
+834
+00:58:51,940 --> 00:58:53,620
+Did what?
+
+835
+00:58:53,620 --> 00:58:56,260
+Sent this thug to our house
+
+836
+00:58:56,260 --> 00:58:57,380
+Why would she have done that?
+
+837
+00:58:57,380 --> 00:59:01,140
+You said yourself, she made threats about us touching her stuff
+
+838
+00:59:01,140 --> 00:59:08,100
+She's not that sort of person. She hasn't taken her stuff because she still hasn't found a place. She was just annoyed with me that day.
+
+839
+00:59:09,620 --> 00:59:10,740
+Hello
+
+840
+00:59:11,700 --> 00:59:13,340
+Feeling better?
+
+841
+00:59:13,340 --> 00:59:15,380
+Yep, I'm fine thanks
+
+842
+00:59:23,620 --> 00:59:25,700
+Did you tell them happened?
+
+843
+00:59:26,060 --> 00:59:26,780
+No
+
+844
+00:59:26,780 --> 00:59:28,380
+Then how do they know?
+
+845
+00:59:28,380 --> 00:59:31,060
+The neighbor had called Babak
+
+846
+00:59:31,060 --> 00:59:32,900
+I'm not sure what they said
+
+847
+00:59:33,940 --> 00:59:36,340
+Emad, get dressed and come out
+
+848
+00:59:39,540 --> 00:59:41,460
+My outfit's not here
+
+849
+00:59:41,980 --> 00:59:44,020
+Kati's going to take your place tonight
+
+850
+00:59:54,460 --> 00:59:56,300
+And you just accepted that?
+
+851
+00:59:56,300 --> 00:59:58,460
+What can I do? I'm not in charge
+
+852
+00:59:58,580 --> 01:00:01,660
+The director wanted her to replace you tonight
+
+853
+01:00:01,660 --> 01:00:05,020
+Are you okay? Are you up to it? Go and let him know
+
+854
+01:00:05,020 --> 01:00:06,700
+No, I don't want to
+
+855
+01:00:07,620 --> 01:00:09,380
+Have you started househunting?
+
+856
+01:00:10,540 --> 01:00:12,260
+No, I will do
+
+857
+01:00:13,700 --> 01:00:14,860
+As soon as I get time
+
+858
+01:00:14,860 --> 01:00:18,460
+When you get time! As though everything's fine at our current place!
+
+859
+01:00:18,460 --> 01:00:19,940
+You haven't done anything
+
+860
+01:00:19,940 --> 01:00:21,380
+What?
+
+861
+01:00:23,060 --> 01:00:25,860
+I want us to go to the police, but you won't come. What do you mean?
+
+862
+01:00:25,860 --> 01:00:29,420
+You said you'd find a substitute teacher and pick me up in an hour
+
+863
+01:00:29,420 --> 01:00:31,740
+I couldn't find anyone to cover my class
+
+864
+01:00:39,340 --> 01:00:40,340
+Auntie?
+
+865
+01:00:40,780 --> 01:00:42,340
+Yes Baby?
+
+866
+01:00:42,340 --> 01:00:45,060
+Why aren't you acting tonight?
+
+867
+01:00:45,740 --> 01:00:47,900
+I'm not feeling well tonight darling
+
+868
+01:00:47,900 --> 01:00:50,220
+Why did you come here then?
+
+869
+01:00:50,220 --> 01:00:52,540
+I get bored at home
+
+870
+01:00:52,540 --> 01:00:54,020
+What?
+
+871
+01:00:54,020 --> 01:00:56,380
+I get bored at home
+
+872
+01:00:56,980 --> 01:01:01,900
+Oh, I get bored here
+
+873
+01:01:04,020 --> 01:01:06,900
+Would you like to come to our house this evening?
+
+874
+01:01:07,260 --> 01:01:09,300
+Do you have Spongebob?
+
+875
+01:01:09,300 --> 01:01:11,540
+No, but we can go to the shops on the way home
+
+876
+01:01:11,540 --> 01:01:14,100
+From tomorrow evening you really need to join us again
+
+877
+01:01:14,100 --> 01:01:18,300
+Everything's topsy turvy. Everybody's making mistakes
+
+878
+01:01:19,500 --> 01:01:20,740
+Why?
+
+879
+01:01:20,740 --> 01:01:22,740
+I don't know, everyone's upset
+
+880
+01:01:22,740 --> 01:01:25,140
+You're better now, you should act again tomorrow
+
+881
+01:01:25,140 --> 01:01:25,780
+Mum?
+
+882
+01:01:25,780 --> 01:01:26,540
+Darling?
+
+883
+01:01:26,540 --> 01:01:27,660
+I'm going to Auntie's house
+
+884
+01:01:27,660 --> 01:01:28,580
+No you're not baby
+
+885
+01:01:28,580 --> 01:01:33,460
+Let him come with me, I'm alone tonight. I'll bring him back tomorrow evening
+
+886
+01:01:33,460 --> 01:01:38,020
+He can't, his dad will be picking him up to go to his house tomorrow
+
+887
+01:01:41,820 --> 01:01:44,540
+That's okay - his Dad can pick him up from our place
+
+888
+01:01:49,580 --> 01:01:50,980
+Do you want to go?
+
+889
+01:01:50,980 --> 01:01:51,820
+Yes!
+
+890
+01:01:52,060 --> 01:01:54,060
+You won't be a nuisance for Auntie Rana?
+
+891
+01:01:54,060 --> 01:01:55,660
+He won't be
+
+892
+01:01:55,900 --> 01:01:59,020
+Tell Emad we're taking the car
+
+893
+01:02:00,100 --> 01:02:02,220
+I'll bring his things over
+
+894
+01:02:07,580 --> 01:02:08,860
+I need to pee
+
+895
+01:02:08,860 --> 01:02:10,860
+I know, go on, go inside
+
+896
+01:02:13,140 --> 01:02:15,500
+Whose bike is this?
+
+897
+01:02:15,500 --> 01:02:17,660
+That one... is a kid's
+
+898
+01:02:24,060 --> 01:02:25,580
+Where's the kid?
+
+899
+01:02:25,580 --> 01:02:28,100
+They left here
+
+900
+01:02:28,100 --> 01:02:29,300
+Where did they go?
+
+901
+01:02:29,300 --> 01:02:30,100
+Huh?
+
+902
+01:02:30,100 --> 01:02:31,780
+Where'd they go?
+
+903
+01:02:32,220 --> 01:02:34,700
+They moved to a new house. Do you not need to pee?
+
+904
+01:02:34,700 --> 01:02:35,420
+Oh yes!
+
+905
+01:02:35,420 --> 01:02:36,700
+Go on then
+
+906
+01:02:38,260 --> 01:02:40,420
+Not that one, over here
+
+907
+01:02:41,420 --> 01:02:42,300
+Okay...
+
+908
+01:02:43,620 --> 01:02:44,620
+It's dark!
+
+909
+01:02:44,620 --> 01:02:45,940
+I'm coming...
+
+910
+01:02:49,180 --> 01:02:51,260
+It's scary in there
+
+911
+01:02:51,260 --> 01:02:53,260
+Come on
+
+912
+01:02:54,620 --> 01:02:57,140
+No, I don't need to go now
+
+913
+01:02:58,020 --> 01:02:59,140
+Let me help
+
+914
+01:02:59,140 --> 01:03:04,060
+No, but... I... I'll do it
+
+915
+01:03:05,020 --> 01:03:06,540
+Are you feeling shy in front of me?
+
+916
+01:03:06,540 --> 01:03:07,420
+No!
+
+917
+01:03:08,820 --> 01:03:10,340
+Can you do it yourself?
+
+918
+01:03:30,940 --> 01:03:33,300
+I'm drawing his mustache
+
+919
+01:03:42,220 --> 01:03:43,340
+Yes?
+
+920
+01:03:44,060 --> 01:03:45,300
+Come up dear
+
+921
+01:03:45,740 --> 01:03:47,060
+Who was it?
+
+922
+01:03:47,780 --> 01:03:49,060
+Uncle Emad
+
+923
+01:03:49,060 --> 01:03:52,980
+If it's my dad, tell him Sadra's not here
+
+924
+01:03:52,980 --> 01:03:54,100
+Why?
+
+925
+01:03:55,340 --> 01:03:57,540
+Because I love my Mom
+
+926
+01:03:57,540 --> 01:03:58,620
+Okay
+
+927
+01:04:12,300 --> 01:04:13,460
+Rana?
+
+928
+01:04:13,700 --> 01:04:14,300
+Hey
+
+929
+01:04:14,300 --> 01:04:16,060
+The van isn't in the car park
+
+930
+01:04:16,060 --> 01:04:18,060
+I parked it outside this morning
+
+931
+01:04:18,060 --> 01:04:19,660
+Why outside?
+
+932
+01:04:19,660 --> 01:04:23,180
+I didn't fancy moving it every ten minutes
+
+933
+01:04:23,180 --> 01:04:24,100
+Hello!
+
+934
+01:04:24,100 --> 01:04:26,980
+Helloooo, how are you kid?
+
+935
+01:04:26,980 --> 01:04:28,380
+Where are the keys?
+
+936
+01:04:28,380 --> 01:04:29,900
+Where you'd left them
+
+937
+01:04:30,980 --> 01:04:32,700
+How are things with my favorite?
+
+938
+01:04:32,700 --> 01:04:34,580
+Welcome to our house, all good?
+
+939
+01:04:35,020 --> 01:04:36,180
+Welcome!
+
+940
+01:04:40,460 --> 01:04:42,460
+Leave it where it is Emad
+
+941
+01:04:42,460 --> 01:04:43,260
+I'll be right back
+
+942
+01:04:43,260 --> 01:04:45,260
+Emad... Emad...
+
+943
+01:04:47,260 --> 01:04:50,300
+Let's forget all that for tonight, just leave it
+
+944
+01:04:50,300 --> 01:04:53,500
+I've made dinner, go and wash your hands and change
+
+945
+01:04:53,940 --> 01:04:55,220
+Go on darling
+
+946
+01:05:06,300 --> 01:05:09,620
+Ready for takeoff ladies and gentleman!
+
+947
+01:05:13,300 --> 01:05:15,020
+Sadra?
+
+948
+01:05:15,420 --> 01:05:16,500
+Yes!
+
+949
+01:05:16,500 --> 01:05:18,500
+Emad it's ready, come before it gets cold
+
+950
+01:05:18,500 --> 01:05:19,700
+Coming
+
+951
+01:05:19,980 --> 01:05:21,700
+Let's go and wash those hands
+
+952
+01:05:21,700 --> 01:05:23,380
+My hands are clean!
+
+953
+01:05:23,380 --> 01:05:24,700
+Let's wash them again anyway
+
+954
+01:05:24,700 --> 01:05:27,940
+Wow wow wow, look at this!
+
+955
+01:05:29,500 --> 01:05:31,540
+Thanks so much
+
+956
+01:05:34,060 --> 01:05:35,060
+Get your hands off it!
+
+957
+01:05:35,060 --> 01:05:39,180
+<i>Rana, where are you?</i>
+
+958
+01:05:39,180 --> 01:05:41,820
+<i>Sadra, come and eat!</i>
+
+959
+01:05:42,420 --> 01:05:44,860
+Helllllo
+
+960
+01:05:44,860 --> 01:05:48,580
+Hello trouble, have you two been having fun without me?
+
+961
+01:05:48,580 --> 01:05:48,940
+We went shopping and then hung out
+
+962
+01:05:48,940 --> 01:05:50,460
+Well done!
+We went shopping and then hung out
+
+963
+01:05:50,460 --> 01:05:52,020
+We went shopping and then hung out
+
+964
+01:05:52,020 --> 01:05:52,220
+But we didn't find Spongebob
+We went shopping and then hung out
+
+965
+01:05:52,220 --> 01:05:54,660
+But we didn't find Spongebob
+
+966
+01:05:54,660 --> 01:05:56,660
+Yes, unfortunately not
+
+967
+01:05:56,660 --> 01:06:01,300
+<i>Don't worry Patrick, eventually a good day will come when you and I will find someone</i>
+
+968
+01:06:01,900 --> 01:06:05,380
+<i>Look at this Spongebob!</i>
+
+969
+01:06:05,900 --> 01:06:09,500
+Look at what Auntie Rana made, macaroni!
+
+970
+01:06:11,420 --> 01:06:12,300
+More?
+
+971
+01:06:12,300 --> 01:06:13,620
+No no, that's enough
+
+972
+01:06:14,020 --> 01:06:15,780
+Okay, just let me know
+
+973
+01:06:15,780 --> 01:06:17,580
+Thank you
+
+974
+01:06:19,740 --> 01:06:22,860
+Wow, what macaroni!
+
+975
+01:06:22,860 --> 01:06:23,860
+Bon appetit!
+
+976
+01:06:23,860 --> 01:06:25,820
+Let's eat it all
+
+977
+01:06:26,100 --> 01:06:27,620
+Look at what she's made
+
+978
+01:06:27,620 --> 01:06:28,820
+Wow, I know!
+
+979
+01:06:30,220 --> 01:06:31,940
+How was tonight's performance?
+
+980
+01:06:32,780 --> 01:06:34,180
+Very...
+
+981
+01:06:34,620 --> 01:06:35,780
+It wasn't great
+
+982
+01:06:36,020 --> 01:06:37,380
+It was terrible
+
+983
+01:06:37,380 --> 01:06:38,700
+You're lying
+
+984
+01:06:38,700 --> 01:06:40,980
+That's how it is without you
+
+985
+01:06:42,780 --> 01:06:44,260
+Did you find the credit card?
+
+986
+01:06:44,260 --> 01:06:45,620
+No
+
+987
+01:06:47,900 --> 01:06:49,260
+How did you go shopping?
+
+988
+01:06:49,620 --> 01:06:51,380
+With the money you'd left
+
+989
+01:06:52,700 --> 01:06:54,260
+What money?
+
+990
+01:06:54,260 --> 01:06:55,300
+From the drawer
+
+991
+01:07:09,900 --> 01:07:11,940
+Why aren't you eating? Do you not like it?
+
+992
+01:07:12,380 --> 01:07:14,780
+Is it not tasty?
+
+993
+01:07:23,500 --> 01:07:25,260
+Don't eat it
+
+994
+01:07:26,940 --> 01:07:28,100
+What's up?
+
+995
+01:07:37,020 --> 01:07:39,860
+That scumbag had left it behind the other night
+
+996
+01:08:06,420 --> 01:08:07,780
+Sadra?
+
+997
+01:08:08,940 --> 01:08:10,780
+I've got an idea
+
+998
+01:08:11,140 --> 01:08:12,260
+Do you like pizza?
+
+999
+01:08:12,260 --> 01:08:13,220
+Yep
+
+1000
+01:08:13,980 --> 01:08:15,500
+Then let me call the pizzeria
+
+1001
+01:08:15,740 --> 01:08:17,660
+Don't eat that, it's not good
+
+1002
+01:08:20,180 --> 01:08:22,020
+Do you like fries?
+
+1003
+01:08:22,900 --> 01:08:24,700
+And after that Ice Cream?
+
+1004
+01:08:35,620 --> 01:08:39,500
+Hello? Mum? Mummy?
+
+1005
+01:08:41,580 --> 01:08:45,380
+Hello? Uncle? Are you there?
+
+1006
+01:08:46,580 --> 01:08:50,340
+<i>Muffled</i>
+
+1007
+01:08:51,820 --> 01:08:53,660
+Aahoo darling, it's Babak
+
+1008
+01:08:55,820 --> 01:09:00,180
+Aahoo... Aahoo...
+
+1009
+01:09:01,260 --> 01:09:03,380
+Are you there?
+
+1010
+01:09:07,860 --> 01:09:13,260
+Give me a call when you get home, I'll be up late
+
+1011
+01:09:16,460 --> 01:09:18,340
+What are you doing?
+
+1012
+01:09:19,380 --> 01:09:20,820
+Nothing
+
+1013
+01:09:21,340 --> 01:09:22,860
+Come and sleep
+
+1014
+01:09:23,180 --> 01:09:24,700
+You haven't slept for two nights
+
+1015
+01:09:25,060 --> 01:09:26,980
+I can't fall asleep
+
+1016
+01:09:34,580 --> 01:09:36,980
+Why did you open her letters?
+
+1017
+01:09:36,980 --> 01:09:38,420
+It's their private belongings
+
+1018
+01:09:38,420 --> 01:09:40,300
+I wanted to find out who the hell that scumbag is 
+
+1019
+01:09:40,300 --> 01:09:42,220
+Let's say you find out how it was...
+
+1020
+01:09:43,060 --> 01:09:44,300
+He'll say it was a mistake
+
+1021
+01:09:44,300 --> 01:09:46,060
+He came inside by mistake?
+
+1022
+01:09:46,060 --> 01:09:48,500
+He rang the bell and I opened the door
+
+1023
+01:09:48,500 --> 01:09:51,940
+He must've thought it was that woman since I opened the door so easily
+
+1024
+01:09:51,940 --> 01:09:53,100
+He came here by mistake?
+
+1025
+01:09:53,420 --> 01:09:55,540
+Any when he realized his mistake?
+
+1026
+01:09:55,540 --> 01:09:57,260
+Why not leave?
+
+1027
+01:09:57,260 --> 01:10:00,020
+Because he saw the bathroom light on and a woman in there
+
+1028
+01:10:00,020 --> 01:10:01,060
+How would he know that?
+
+1029
+01:10:01,060 --> 01:10:03,340
+From your clothes on the sofa
+
+1030
+01:10:06,300 --> 01:10:09,100
+If I'd just used the intercom...
+
+1031
+01:10:09,100 --> 01:10:11,620
+If I'd just asked who it was...
+
+1032
+01:10:12,380 --> 01:10:14,300
+None of this would have happened
+
+1033
+01:10:14,300 --> 01:10:17,420
+Do you think it's that simple?
+
+1034
+01:10:18,020 --> 01:10:20,300
+We can just tell all the neighbors about the intercom
+
+1035
+01:10:20,300 --> 01:10:22,020
+Why are you talking about the neighbors?
+
+1036
+01:10:22,020 --> 01:10:23,700
+They know what was going on in this house
+
+1037
+01:10:23,700 --> 01:10:25,660
+If they didn't know, would that be fine?
+
+1038
+01:10:25,660 --> 01:10:27,660
+What are you on about?
+
+1039
+01:10:45,580 --> 01:10:47,380
+The van wasn't there
+
+1040
+01:10:47,380 --> 01:10:48,020
+What?
+
+1041
+01:10:49,980 --> 01:10:50,860
+Sorry
+
+1042
+01:10:52,380 --> 01:10:53,540
+Where was it?
+
+1043
+01:10:54,140 --> 01:10:55,020
+There
+
+1044
+01:10:55,020 --> 01:10:56,500
+Sorry
+
+1045
+01:11:00,060 --> 01:11:01,260
+Where did you leave it?
+
+1046
+01:11:01,260 --> 01:11:02,460
+I left it there
+
+1047
+01:11:05,500 --> 01:11:06,180
+Where?
+
+1048
+01:11:06,300 --> 01:11:08,860
+Over there, where the Peugeot is
+
+1049
+01:11:15,820 --> 01:11:17,140
+He's taken it
+
+1050
+01:11:18,500 --> 01:11:20,380
+I have to find that asshole
+
+1051
+01:11:37,300 --> 01:11:39,060
+Donkey!
+
+1052
+01:11:44,860 --> 01:11:46,740
+Okay, don't speed
+
+1053
+01:12:12,500 --> 01:12:13,860
+You'll freeze
+
+1054
+01:12:14,020 --> 01:12:14,940
+It doesn't matter
+
+1055
+01:12:14,940 --> 01:12:17,140
+What do you mean it doesn't matter? You'll get sick
+
+1056
+01:12:17,140 --> 01:12:18,260
+Let's go to the public baths
+
+1057
+01:12:18,260 --> 01:12:20,660
+No, I'll be quick. Just wait here
+
+1058
+01:12:30,140 --> 01:12:31,620
+Hasanpoor, come here a sec
+
+1059
+01:12:31,620 --> 01:12:33,380
+<i>Hello</i>
+
+1060
+01:12:40,100 --> 01:12:41,420
+What can I do for you Sir?
+
+1061
+01:12:41,420 --> 01:12:42,300
+Hi
+
+1062
+01:12:42,300 --> 01:12:44,300
+How's it going?
+
+1063
+01:12:44,580 --> 01:12:46,700
+Your dad was a traffic cop, right?
+
+1064
+01:12:46,700 --> 01:12:48,180
+He's retired now, why?
+
+1065
+01:12:49,300 --> 01:12:51,260
+A car hit my wife and drove off
+
+1066
+01:12:51,260 --> 01:12:52,300
+I hope nothing serious Sir!
+
+1067
+01:12:52,300 --> 01:12:54,300
+No, thank God
+
+1068
+01:12:55,300 --> 01:12:58,420
+It was a van, if I give you the number plate...
+
+1069
+01:12:58,420 --> 01:13:02,380
+If it's not too much trouble, could your Dad find the driver's address?
+
+1070
+01:13:02,380 --> 01:13:06,500
+Sure, he has contacts in the office. Give me the license plate and he can find out
+
+1071
+01:13:06,500 --> 01:13:08,540
+But I think you should report it
+
+1072
+01:13:08,540 --> 01:13:12,460
+It wasn't anything major, I don't want to have to involve the police here
+
+1073
+01:13:12,460 --> 01:13:15,020
+Okay, give me the registration and I'll call my Dad
